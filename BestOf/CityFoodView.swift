@@ -10,6 +10,7 @@ import SwiftUI
 struct CityFoodView: View {
   var body: some View {
     Text("City Food View")
+      .navigationBarTitle("Food")
   }
 }
 

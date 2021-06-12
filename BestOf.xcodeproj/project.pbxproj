@@ -15,6 +15,7 @@
 		4EA00C482674F88F00435CE7 /* CityTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA00C472674F88F00435CE7 /* CityTabView.swift */; };
 		4EA00C4A2674F96600435CE7 /* CityDrinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA00C492674F96600435CE7 /* CityDrinkView.swift */; };
 		4EA00C4C2674F97F00435CE7 /* CityFoodView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA00C4B2674F97F00435CE7 /* CityFoodView.swift */; };
+		4EA00C4E2674FA3A00435CE7 /* CityActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA00C4D2674FA3A00435CE7 /* CityActivityView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		4EA00C472674F88F00435CE7 /* CityTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityTabView.swift; sourceTree = "<group>"; };
 		4EA00C492674F96600435CE7 /* CityDrinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityDrinkView.swift; sourceTree = "<group>"; };
 		4EA00C4B2674F97F00435CE7 /* CityFoodView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityFoodView.swift; sourceTree = "<group>"; };
+		4EA00C4D2674FA3A00435CE7 /* CityActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityActivityView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				4EA00C472674F88F00435CE7 /* CityTabView.swift */,
 				4EA00C492674F96600435CE7 /* CityDrinkView.swift */,
 				4EA00C4B2674F97F00435CE7 /* CityFoodView.swift */,
+				4EA00C4D2674FA3A00435CE7 /* CityActivityView.swift */,
 				4EA00C3B2674F45100435CE7 /* Assets.xcassets */,
 				4EA00C3D2674F45100435CE7 /* Preview Content */,
 			);
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EA00C4E2674FA3A00435CE7 /* CityActivityView.swift in Sources */,
 				4EA00C3A2674F45000435CE7 /* ContentView.swift in Sources */,
 				4EA00C4C2674F97F00435CE7 /* CityFoodView.swift in Sources */,
 				4EA00C462674F7DC00435CE7 /* CitySelectionView.swift in Sources */,
